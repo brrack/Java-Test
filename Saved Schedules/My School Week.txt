@@ -1,0 +1,12 @@
+Monday|CS 180
+Monday|CS 180
+Monday|HIST 101
+Tuesday|MATH 117
+Tuesday|MUS 120
+Wednesday|CS 180
+Wednesday|HIST 101
+Thursday|MATH 117
+Thursday|MUS 120
+Friday|CS 180
+Friday|CS 180
+Friday|HIST 101
